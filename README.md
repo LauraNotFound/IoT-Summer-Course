@@ -49,7 +49,7 @@ Diseñar un sistema de estacionamiento inteligente capaz de:
 
 ## 🎥 Video demostrativo
 
-Ubicado en la carpeta `/videos`.
+https://github.com/user-attachments/assets/dd6e10fb-2e2b-4868-9a0a-8128dcd3db72
 
 ---
 
@@ -93,7 +93,7 @@ Donde:
 
 ## 🎥 Video demostrativo
 
-Ubicado en la carpeta `/videos`.
+https://github.com/user-attachments/assets/b6e2955e-ef81-4892-8e4e-e53dc9238c4d
 
 ---
 
@@ -121,3 +121,12 @@ Ejemplo de conversión:
 
 ```cpp
 int freq = map(ldrValue, umbralLuz, maxLuz, freqMin, freqMax);
+```
+
+## 🎥 Video demostrativo
+
+https://github.com/user-attachments/assets/edfd13b7-83ed-4a4a-9db9-ba1434455481
+
+
+
+
