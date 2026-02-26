@@ -11,7 +11,6 @@ Los proyectos fueron implementados como parte de prácticas académicas en el á
 1. 🚗 Smart Parking System  
 2. 🏎 Velocity Measurement Device  
 3. 🎵 IoT Theremin  
-4. 🎥 Videos demostrativos (uno por cada proyecto)
 
 ---
 
