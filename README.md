@@ -38,7 +38,7 @@ Diseñar un sistema de estacionamiento inteligente capaz de:
 2. Si la distancia es menor que un umbral → espacio ocupado.
 3. El ESP32 envía el estado a Firebase.
 4. La base de datos actualiza la disponibilidad en tiempo real.
-5. [Texto visible](https://github.com/LauraNotFound/studio.git) 
+5. [Repositorio del Dashboard](https://github.com/LauraNotFound/studio.git) 
 
 ## 📚 Conceptos Aplicados
 
